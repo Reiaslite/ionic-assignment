@@ -1,4 +1,4 @@
 # ionic-assignment
 
-- Ionic start (5 option)
+- Ionic start (blank, list, my-first-app, sidemenu, tabs)
 - Local Storage
